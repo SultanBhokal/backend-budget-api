@@ -8,6 +8,8 @@ i have deployed backend on render.com
 
 link :- https://budgetappapi.onrender.com
 
+git repo link :- https://github.com/SultanBhokal/badget-app-frontend
+
 Frontend on netlify.com 
  
 link :- https://remarkable-sprite-74f33a.netlify.app
